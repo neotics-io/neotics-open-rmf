@@ -15,3 +15,4 @@ This repository is a copy of the project above, kept by [Neotics](https://neotic
 |---|---|---|
 | 8 Nov 2026 | `README.md` | Added a Neotics section at the top. The original text is unchanged below it. |
 | 8 Nov 2026 | `NEOTICS.md` | New file: this page. |
+| 8 Nov 2026 | `.github/neotics-wordmark.svg`, `.github/neotics-wordmark-white.svg` | New files: the Neotics logo for this page, for light and dark themes. |

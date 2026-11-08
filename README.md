@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://neotics.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neotics.io/assets/wordmark-light.svg">
-      <img alt="Neotics" src="https://neotics.io/assets/wordmark.svg" height="34">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/neotics-wordmark-white.svg">
+      <img alt="Neotics" src=".github/neotics-wordmark.svg" height="34">
     </picture>
   </a>
 </p>
